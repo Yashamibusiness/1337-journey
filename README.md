@@ -14,11 +14,11 @@ The goal isn't just to finish exercises. I want to actually understand the conce
 
 ## Shell 00
 
-* [ ] Shell basics
-* [ ] Files & directories
-* [ ] Permissions
-* [ ] Basic commands
-* [ ] Git basics
+* [x] Shell basics
+* [x] Files & directories
+* [x] Permissions
+* [x] Basic commands
+* [x] Git basics
 
 ## Shell 01
 
