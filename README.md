@@ -1,348 +1,124 @@
 # 1337 Journey
 
-My journey preparing for the 1337 Pool.
+> **Note:** I use AI to help me structure and organize my notes into these READMEs. The solutions, commands, experiments, and learning are mine. The goal is to understand what I'm doing, not blindly copy answers.
 
-The goal is not just to finish exercises, but to understand the concepts behind them and become able to solve similar problems without relying on solutions.
+My journey preparing for the **1337 Pool**.
 
-# Phase 1 - Linux & Shell
+I'm using this repo to track what I learn, the exercises I solve, the mistakes I make, and the things I need to improve.
+
+The goal isn't just to finish exercises. I want to actually understand the concepts and eventually solve similar problems on my own.
+
+---
+
+# Phase 1 — Linux & Shell
 
 ## Shell 00
-- [ ] Shell basics
-- [ ] Files and Directories
-- [ ] Permissions
-- [ ] Basic commands
-- [ ] Git basics
+
+* [ ] Shell basics
+* [ ] Files & directories
+* [ ] Permissions
+* [ ] Basic commands
+* [ ] Git basics
 
 ## Shell 01
-- [ ] 'find'
-- [ ] 'grep'
-- [ ] 'cat'
-- [ ] Pipes and Redirections
-- [ ] Shell scripting basics
 
-**Goal:** Become confortable working entirely from the terminal.
+* [ ] `find`
+* [ ] `grep`
+* [ ] `cat`
+* [ ] Pipes & redirections
+* [ ] Shell scripting
 
----
-
-# Phase 2 - C Piscine
-
-## C00 - C Fundamentals
-- [ ] 'ft_puchar'
-- [ ] Conditions 
-- [ ] Loops
-- [ ] Functions
-- [ ] Character Manipulation
-- [ ] Basic Output
-
-**Learn:**
-- C syntax
-- 'if / else'
-- 'while'
-- Functions
-- ASCII
-- Basic Problem Solving
+**Goal:** Get comfortable working from the terminal.
 
 ---
 
-## C01 - Pointers
-- [ ] Pointers
-- [ ] Dereferencing
-- [ ] Adresses
-- [ ] 'ft_swap'
-- [ ] 'ft_div_mod'
-- [ ] Arrays
-- [ ] String Length
+# Phase 2 — C
 
-**Learn:**
-- '*' and '&'
-- How memory adress work
-- Passing variables by adress
-- Arrays
-- Basic memory reasoning
+## C00 → C04 — The Basics
 
----
+* [ ] C syntax
+* [ ] Conditions & loops
+* [ ] Functions
+* [ ] Characters & strings
+* [ ] Arrays
+* [ ] Pointers & addresses
+* [ ] Numbers & bases
 
-## C02 - Strings & Arrays
-- [ ] String manipulation 
-- [ ] Character checking
-- [ ] Case conversion
-- [ ] String copying
-- [ ] String transformation
+**Goal:** Build a solid foundation in C, memory and problem solving.
 
-**Learn:**
-- Null-terminated strings
-- 'char *'
-- Array traversal
-- String algprithms
-- Defensive thinking
+## C05 → C06 — Thinking in C
 
----
+* [ ] Recursion
+* [ ] Math problems
+* [ ] `argc` / `argv`
+* [ ] Command-line arguments
 
-## C03 - String Manipulation
-- [ ] String comparison
-- [ ] String concatenation
-- [ ] String operations
+**Goal:** Get better at breaking problems down and finding solutions.
 
-**Learn:**
-- How to build functions that manipulate strings
-- indexing
-- Edge cases
-- Algorithmic thinking
+## C07 → C09 — Memory & Projects
 
-## C04 - Numbers
-- [ ] Number conversion
-- [ ] Base systems
-- [ ] 'ft_atoi'
-- [ ] 'ft_putnbr'
-- [ ] Integer manipulation
+* [ ] `malloc` / `free`
+* [ ] Memory management
+* [ ] Headers & structures
+* [ ] Static libraries
+* [ ] Makefiles
 
-**Learn:**
-- Integer arithmetic
-- Division / Mdulo
-- Number representation
-- Bases
-- Converting between characters and numbers
+**Goal:** Understand how real C projects are organized and built.
+
+## C10 → C13 — Advanced C
+
+* [ ] File descriptors & system calls
+* [ ] Function pointers
+* [ ] Linked lists
+* [ ] Binary trees
+
+**Goal:** Become comfortable with pointers, memory and larger problems.
 
 ---
 
-## C05 - Math & Recursion
-- [ ] Iteraction
-- [ ] Recursion
-- [ ] Mathematical problems
-- [ ] Factorials
-- [ ] Powers
-- [ ] Fibonnachi
-- [ ] Prime numbers
+# Phase 3 — Rushes
 
-**Learn:**
-- Recursion
-- Mathematical reasoning
-- Breaking problems into smaller problems
-- Algorithms efficiency
+Weekend projects focused on **teamwork, algorithms and working under time pressure**.
+
+* [ ] Rush 00
+* [ ] Rush 01
+* [ ] Rush 02
+
+**Goal:** Learn to work with others, explain my code, read unfamiliar code and solve problems as a team.
 
 ---
 
-## C06 - argc & argv 
-- [ ] 'argc'
-- [ ] 'argv'
-- [ ] Command-line arguments
-- [ ] String processing from arguments
+# Phase 4 — BSQ
 
-**Learn:**
-- How programs receive input from the terminal
-- Argument validation
-- Command-line programming
+A bigger project combining several C concepts.
 
----
+* [ ] Parse the map
+* [ ] Validate input
+* [ ] Work with 2D data
+* [ ] Find the biggest square
+* [ ] Handle edge cases
+* [ ] Manage memory
+* [ ] Optimize
 
-## C07 - Memory allocation
-- [ ] 'malloc'
-- [ ] 'free'
-- [ ] Dynamic arrays
-- [ ] Dynamic strings
-
-**Learn:**
-- Stack vs heap
-- Dynamic memory
-- Memory leaks
-- 'malloc' / 'free'
-- Debugging with valgrind
+**Goal:** Put everything together in one larger problem.
 
 ---
 
-## C08 - Headers & Structures
-- [ ] Header files
-- [ ] Include guards
-- [ ] '#define'
-- [ ] Macros
-- [ ] 'typedef'
-- [ ] Structures 
+# Phase 5 — Exams
 
-**Learn:**
-- Preprocessor
-- '.h' files
-- 'struct'
-- Organizing larger programs
+* [ ] Exam 00 — C fundamentals
+* [ ] Exam 01 — Pointers & strings
+* [ ] Exam 02 — Recursion, memory & `argc/argv`
+* [ ] Final Exam — Unfamiliar problems under time pressure
+
+**Goal:** Be able to think, code and debug without relying on external help.
 
 ---
 
-## C09 - Libraries & Makefiles
-- [ ] Static libraries
-- [ ] 'ar'
-- [ ] 'ranlib'
-- [ ] Makefiles
-- [ ] Compilation
+# The End Goal
 
-**Learn:**
-- How C projects are built
-- Object files
-- Static libraries
-- Make
-- Multi-file projects
+Not just passing the Pool.
 
----
+I want to reach the point where I can look at a problem, **understand it, break it down, try a solution, debug it when it fails, and explain why my solution works.**
 
-## C10 - File Manipulator
-- [ ] File operations
-- [ ] File descriptors
-- [ ] System calls
-- [ ] 'open'
-- [ ] 'read'
-- [ ] 'write'
-- [ ] 'close'
-
-**Learn:**
-- How programs interact with files
-- File descriptors
-- Basic Unix system calls
-
----
-
-## C11 - Function Pointers
-- [ ] Function pointers
-- [ ] Callbacks
-- [ ] Array algorithms
-- [ ] Sorting
-
-**Learn:**
-- Function as values
-- Pointers to functions
-- Genetic algorithms
-- More advanced C thinking
-
----
-
-## C12 - Linked Lists
-- [ ] Structures
-- [ ] Nodes
-- [ ] Linked Lists
-- [ ] List insertion
-- [ ] List traversal 
-
-**Learn:**
-- Dinamic data structures
-- Pointers to structures
-- Memory Mangement
-- Linked-list algorithms
-
----
-
-## C13 - Binary Trees
-- [ ] Tree structures
-- [ ] Nodes 
-- [ ] Recursion
-- [ ] tree traversal
-
-**Learn:**
-- Recursive data structures
-- Binary trees
-- Tree algorithms
-- Advenced pointer usage
-
----
-
-# Phase 3 - Rushes
-
-Weekend group projects designed to test teamwork, communication, problem-solving and applying C under time pressure.
-
-## Rush 00
-- [ ] Rectangle / pattern generation
-- [ ] Functions
-- [ ] Input validation
-- [ ] Teamwork
-- [ ] Git collaboration
-
-**Learn:**
-- Working with other programmers
-- Splitting a problem into tasks
-- Reading someone else's code 
-- Debugging together
-- Explaining your own code
-- Working under a deadline 
-
----
-
-## Rush 01
-- [ ] Constraint-based problems
-- Multi-function programs
-- More complex algorithms
-- Input Validation
-
-**Learn:**
-- Algorithm design
-- Breaking complex problems into smaller functions
-- Backtracking / logical reasoning
-- Team communication
-- Debugging unfamiliar code
-
----
-## Rush 02
-- [ ] Advanced group challenge
-- [ ] Parsing / Algorithms
-- [ ] Memory mangement
-
-**Learn:**
-- Combinating multiple C concepts
-- Working with larger programs
-- Memory management
-- Team problem-solving
-- Defending and explaning the project
-
----
-
-# Phase 4 - BSQ - Biggest Square
-
-A larger C project focused on finding the biggest possible square inside a map.
-
-- [ ] Perse the map
-- [ ] Validate input
-- [ ] Represent the map
-- [ ] Search for possible squares 
-- [ ] Find the biggest square 
-- [ ] Handle edge cases
-- [ ] Manage memory correctly
-- [ ] Optimize the solution
-
-**Learn:**
-- Parsing
-- Algorithms
-- 2D arrays
-- Memory management
-- Complex problem decomposition
-- Optimisation
-- Debugging a larger C program
-
----
-
-# Phase 5 - Exams
-
-## Exam 00
-
-- [ ] C fundamentals
-- [ ] Comditions
-- [ ] Loops
-- [ ] Functions
-- [ ] Strings
-- [ ] Solve without external help
-
-## Exam 01
-
-- [ ] Pointers
-- [ ] Strings
-- [ ] Arrays
-- [ ] More difficult algorithms
-- [ ] Time management
-
-## Exam 02
-
-- [ ] Recursion 
-- [ ] memory
-- [ ] argc argv
-- [ ] More advenced problem solving
-
-## Final Exam
-- [ ] Solve unfamiliar problems
-- [ ] Work ubder strict time limits 
-- [ ] Debug quickly
-- [ ] Write code from scratch
-- [ ] Stay calm under pressure 
+**Learn → Build → Break → Debug → Improve.**
