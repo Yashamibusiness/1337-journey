@@ -8,21 +8,20 @@ I worked on searching files, processing text, handling special characters, and w
 
 ## Exercises
 
-| Exercise | What I practiced                        |
-| -------- | --------------------------------------- |
-| Ex00     | Exam registration                       |
-| Ex01     | Displaying user groups                  |
-| Ex02     | Searching for shell scripts             |
-| Ex03     | Counting files and directories          |
-| Ex04     | Displaying MAC addresses                |
-| Ex05     | Creating a file with a special filename |
-| Ex06     | Selecting alternating lines             |
-| Ex07     | Processing and formatting login names   |
-| Ex08     | Working with custom number bases        |
+| Exercise | What I practiced |
+| -------- | ---------------- |
+| [Ex00](./ex00/README.md) | Exam registration |
+| [Ex01](./ex01/README.md) | Displaying user groups |
+| [Ex02](./ex02/README.md) | Searching for shell scripts |
+| [Ex03](./ex03/README.md) | Counting files and directories |
+| [Ex04](./ex04/README.md) | Displaying MAC addresses |
+| [Ex05](./ex05/README.md) | Creating a file with a special filename |
+| [Ex06](./ex06/README.md) | Selecting alternating lines |
+| [Ex07](./ex07/README.md) | Processing and formatting login names |
+| [Ex08](./ex08/README.md) | Working with custom number bases |
 
 ## My goal
 
 My goal is to become more comfortable working in the terminal, understand how commands work together, and solve shell problems independently.
 
 Learn → Experiment → Debug → Document → Improve.
-
