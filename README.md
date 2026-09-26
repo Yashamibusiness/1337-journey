@@ -22,11 +22,11 @@ The goal isn't just to finish exercises. I want to actually understand the conce
 
 ## Shell 01
 
-* [ ] `find`
-* [ ] `grep`
-* [ ] `cat`
-* [ ] Pipes & redirections
-* [ ] Shell scripting
+* [x] `find`
+* [x] `grep`
+* [x] `cat`
+* [x] Pipes & redirections
+* [x] Shell scripting
 
 **Goal:** Get comfortable working from the terminal.
 
