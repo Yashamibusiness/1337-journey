@@ -11,9 +11,3 @@ void	ft_print_numbers(void)
 		x++;
 	}
 }
-/*#include <stdio.h>
-int main()
-{
-	ft_print_numbers();
-	printf("\n");
-}*/

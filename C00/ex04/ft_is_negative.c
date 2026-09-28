@@ -7,10 +7,3 @@ void	ft_is_negative(int n)
 	else
 		write(1, "N", 1);
 }
-/*#include <stdio.h>
-int main()
-{
-	int n = 3;
-	ft_is_negative(n);
-	printf("\n");
-}*/

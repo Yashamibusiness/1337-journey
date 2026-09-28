@@ -28,9 +28,3 @@ void	ft_print_comb2(void)
 		a++;
 	}
 }
-/*#include <stdio.h>
-int main()
-{
-	ft_print_comb2();
-	printf("\n");
-}*/

@@ -33,13 +33,3 @@ void	ft_print_combn(int n)
 		return ;
 	ft_print_combn_rec(n, 0, '0', digits);
 }
-
-/*
-#include <stdio.h>
-int	main(void)
-{
-	ft_print_combn(2);
-	printf("\n");
-	return (0);
-}
-*/

@@ -27,9 +27,3 @@ void	ft_print_comb(void)
 		a++;
 	}
 }
-/*#include <stdio.h>
-int main()
-{
-	ft_print_comb();
-	printf("\n");
-}*/

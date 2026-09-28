@@ -11,10 +11,3 @@ void	ft_print_alphabet(void)
 		x++;
 	}
 }
-/*
- #include <stdio.h>
- int main()
- {
-	ft_print_alphabet();
-	printf("\n");
- }*/
